@@ -1,3 +1,4 @@
 #ITF2024 
 
-Hello Python 67070186
+##Author
+*Siraphop Rungsirijaratthong 67070186
